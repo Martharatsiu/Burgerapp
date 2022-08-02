@@ -1,0 +1,12 @@
+*{
+  background-image: linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,.5)),url("./assets/3.jpg");
+  background-size:cover;
+}
+
+.burgerContent{
+  width: 100%;
+  max-width: 700px;
+  display: flex;
+  margin: 5% auto 0;
+  
+}
